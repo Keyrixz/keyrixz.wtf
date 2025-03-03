@@ -5,7 +5,7 @@
 -- feel free to change aim key, wallcheck, body part etc.
 local TeamCheck = true
 local WallCheck = true
-local Key = "E"
+local Key = Enum.KeyCode.E
 local BodyPart = "Torso"
 local FOV = 1000
 local Inset = game:GetService("GuiService"):GetGuiInset()
